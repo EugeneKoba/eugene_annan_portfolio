@@ -1,7 +1,7 @@
 {
   "name": "eugene_annan_portfolio",
   "version": "0.1.0",
-  "homepage": "https://EugeneKoba.github.io/eugene_annan_portfolio",
+  "homepage": "https://eugenekoba.github.io/eugene_annan_portfolio",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.11.0",
