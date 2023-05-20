@@ -1,0 +1,46 @@
+[
+    {
+        "id": 1,
+        "title": "Jane's Library",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae sapiente voluptates iusto facere! Temporibus itaque dolorem laborum eos doloremque eaque?",
+        "completed": true,
+        "skills": [
+            "HTML/CSS",
+            "Javascript",
+            "Bootatrap"
+        ],
+        "img": "./Project_Screenshots/janes_library.png",
+        "live_link": "https://eugenekoba.github.io/jane-s_library/",
+        "github_link": "https://github.com/EugeneKoba/jane-s_library"
+    },
+    {
+        "id": 2,
+        "title": "Car Insurance Website (Pending)",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae sapiente voluptates iusto facere! Temporibus itaque dolorem laborum eos doloremque eaque?",
+        "completed": false,
+        "skills": [
+            "HTML/CSS",
+            "React",
+            "Node JS",
+            "Python",
+            "SQL"
+        ],
+        "img": "./Project_Screenshots/Car_Insurance_Website.png",
+        "live_link": "#",
+        "github_link": "#"
+    },
+    {
+        "id": 3,
+        "title": "E-Commerce Website (Pending)",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae sapiente voluptates iusto facere! Temporibus itaque dolorem laborum eos doloremque eaque?",
+        "completed": false,
+        "skills": [
+            "HTML/CSS",
+            "React",
+            "Bootatrap"
+        ],
+        "img": "./Project_Screenshots/E-Commerce.png",
+        "live_link": "#",
+        "github_link": "#"
+    }
+]

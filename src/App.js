@@ -1,25 +1,30 @@
-import logo from './logo.svg';
-import './App.css';
+import React from "react"
+import { useMyHook } from "./sections/NewContext"
+import Header from "./sections/Header/Header"
+import Home from "./sections/Home"
+import About from "./sections/About"
+import Projects from "./sections/Projects"
+import Carousel from "./sections/Carousel"
+import Contact from "./sections/Contact"
+import Footer from "./sections/Footer/Footer"
+
 
 function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+    // Importing darkMode state into App.js
+    const { darkMode, toggleDarkMode } = useMyHook()
+	return (
+		<>
+            {/* TERNARY THAT CHANGES from .light or .dark */}
+ 			<div className={darkMode ? "main dark" : "main light"}>
+                <Header darkMode={darkMode} toggleDarkMode={toggleDarkMode}/>
+                <Home />
+                <About />
+                <Projects />
+                <Carousel />
+                <Contact />
+                <Footer />
+			</div>
+        </>
+	)
 }
-
-export default App;
+export default App

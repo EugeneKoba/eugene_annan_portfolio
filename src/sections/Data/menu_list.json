@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "link": "https://EugeneKoba.github.io/eugene_annan_portfolio/",
+        "title": "Home"
+    },
+    {
+        "id": 2,
+        "link": "https://EugeneKoba.github.io/eugene_annan_portfolio/about",
+        "title": "About"
+    },
+    {
+        "id": 3,
+        "link": "https://EugeneKoba.github.io/eugene_annan_portfolio/projects",
+        "title": "Projects"
+    },
+    {
+        "id": 4,
+        "link": "https://EugeneKoba.github.io/eugene_annan_portfolio/carousel",
+        "title": "Carousel"
+    },
+    {
+        "id": 5,
+        "link": "https://EugeneKoba.github.io/eugene_annan_portfolio/contact",
+        "title": "Contact"
+    }
+]

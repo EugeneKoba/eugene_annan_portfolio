@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "title": "HTML",
+        "link": "./Languages/html-icon.png"
+    },
+    {
+        "id": 2,
+        "title": "CSS",
+        "link": "./Languages/css-icon.png"
+    },
+    {
+        "id": 3,
+        "title": "Javascript",
+        "link": "./Languages/javascript-icon.png"
+    },
+    {
+        "id": 4,
+        "title": "React",
+        "link": "./Languages/react-icon.png"
+    },
+    {
+        "id": 5,
+        "title": "Python",
+        "link": "./Languages/python-icon.png"
+    },
+    {
+        "id": 6,
+        "title": "SQL",
+        "link": "./Languages/sql-icon.png"
+    },
+    {
+        "id": 7,
+        "title": "Photoshop",
+        "link": "./Languages/photoshop-icon.png"
+    },
+    {
+        "id": 8,
+        "title": "Figma",
+        "link": "./Languages/figma-icon.png"
+    }
+]

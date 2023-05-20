@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Robert C. Martin",
+        "job": "Software Developer & Author",
+        "country": "California, USA",
+        "line": "Clean code always looks like it was written by someone who cares.",
+        "img": "./Quotes/Robert_C_Martin.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Adham Dannaway",
+        "job": "Front-End Developer & UX Designer",
+        "country": "Sydney, Australia",
+        "line": "Just because you can’t see something doesn’t mean that it’s not getting downloaded.",
+        "img": "./Quotes/Adham_Dannaway.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Jeremy Ashkenas",
+        "job": "Full-Stack Developer, Graphics Director",
+        "country": "New York, USA",
+        "line": "Sometimes the rational decision is to keep doing manually the same process, rather than to automate it",
+        "img": "./Quotes/Jeremy_Ashkenas.jpg"
+    }
+]

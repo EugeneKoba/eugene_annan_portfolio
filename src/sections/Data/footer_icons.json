@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "title": "Instagram",
+        "img": "./Footer_Icons/instagram.png",
+        "link": "https://www.instagram.com/_koba_designs/"
+    },
+    {
+        "id": 2,
+        "title": "GitHub",
+        "img": "./Footer_Icons/github.png",
+        "link": "https://github.com/EugeneKoba"
+    },
+    {
+        "id": 3,
+        "title": "LinkedIn",
+        "img": "./Footer_Icons/linkedin.png",
+        "link": "https://www.linkedin.com/in/eugene-koba-annan-15b650183/"
+    },
+    {
+        "id": 4,
+        "title": "Email",
+        "img": "./Footer_Icons/email.png",
+        "link": "mailto:eugeneannan@hotmail.co.uk"
+    },
+    {
+        "id": 5,
+        "title": "Phone",
+        "img": "./Footer_Icons/phone.png",
+        "link": "tel:+447495146284"
+    }
+]
