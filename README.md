@@ -1,6 +1,6 @@
-## My Portfolio
+## My Front-End Development Portfolio
 
-I'm an aspiring Web Developer! Check out my Web Development Portfolio: https://eugenekoba.github.io/eugene_annan_portfolio/
+I'm an aspiring UX/Front-End Developer! Check out my Web Development Portfolio: https://eugenekoba.github.io/eugene_annan_portfolio/
 
 Website built with React JS, Figma & Adobe Photoshop.
 
