@@ -299,9 +299,6 @@ a {
     animation-duration: 2.2s;
 }
 
-
-
-
 @keyframes transitionIn {
     from {
         opacity: 0;

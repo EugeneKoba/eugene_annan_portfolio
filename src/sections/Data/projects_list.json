@@ -2,7 +2,7 @@
     {
         "id": 1,
         "title": "Jane's Library",
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae sapiente voluptates iusto facere! Temporibus itaque dolorem laborum eos doloremque eaque?",
+        "description": "An Online Blog website containing blog content from Poet, Singer-Songwriter & Author Jane Goodall. This website contains an interface for a blog, an online library storage & an Open-library API book search feature. The website posted here is a sample.",
         "completed": true,
         "skills": [
             "HTML/CSS",
@@ -16,7 +16,7 @@
     {
         "id": 2,
         "title": "Car Insurance Website (Pending)",
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae sapiente voluptates iusto facere! Temporibus itaque dolorem laborum eos doloremque eaque?",
+        "description": "A car insurance/rental website that allows users to fond insurance prices for specific cars, & rent cars for business or personal use. This website provides an interface for searching, comparing & reserving cars.",
         "completed": false,
         "skills": [
             "HTML/CSS",
@@ -26,13 +26,13 @@
             "SQL"
         ],
         "img": "./Project_Screenshots/Car_Insurance_Website.png",
-        "live_link": "#",
-        "github_link": "#"
+        "live_link": "https://github.com/EugeneKoba",
+        "github_link": "https://github.com/EugeneKoba"
     },
     {
         "id": 3,
         "title": "E-Commerce Website (Pending)",
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae sapiente voluptates iusto facere! Temporibus itaque dolorem laborum eos doloremque eaque?",
+        "description": "An E-commerce store that prioritises user experience, to help users locate & purchase the products they need online.",
         "completed": false,
         "skills": [
             "HTML/CSS",
@@ -40,7 +40,7 @@
             "Bootatrap"
         ],
         "img": "./Project_Screenshots/E-Commerce.png",
-        "live_link": "#",
-        "github_link": "#"
+        "live_link": "https://github.com/EugeneKoba",
+        "github_link": "https://github.com/EugeneKoba"
     }
 ]

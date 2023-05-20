@@ -13,7 +13,7 @@ const HeaderDesktop = (props) => {
         <div className="container nav-container">
             <div className="portrait-container">
                 <div className="img-container nav-picture">
-                    <a href="#">
+                    <a href="https://EugeneKoba.github.io/eugene_annan_portfolio">
                         <img src={profilePic} alt="nav-profile-pic" className='img portrait-img' />  
                     </a>
                 </div>
