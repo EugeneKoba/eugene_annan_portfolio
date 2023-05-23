@@ -1,7 +1,7 @@
 import React from 'react'
 import { IoMdHand } from "react-icons/io"
 import { FaFileDownload } from "react-icons/fa"
-import profilePic from "../images/IMG_4675_01.png"
+import profilePic from "../images/IMG_4675_01.jpg"
 
 const Home = () => {
 

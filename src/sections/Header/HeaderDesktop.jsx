@@ -1,5 +1,5 @@
 import React from 'react'
-import profilePic from "../../images/IMG_4675_01.png"
+import profilePic from "../../images/IMG_4675_01.jpg"
 import menu_list from "../Data/menu_list.json"
 import { HiSun } from "react-icons/hi"
 import { RiMoonClearFill } from "react-icons/ri"
