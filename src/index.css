@@ -973,6 +973,7 @@ a {
 }
 
 .modal-img-container img {
+    margin: auto;
     width: calc(100% - 50px);
     max-width: calc(100% - 50px);
     aspect-ratio: 8/5;
