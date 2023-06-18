@@ -16,9 +16,6 @@ const ModalData = (props) => {
                     {data.description}
                 </p>
                 <div className="project-skills">
-                    <span className="skill">HTML/CSS</span>
-                    <span className="skill">Javascript</span>
-                    <span className="skill">React</span>
                     {data.skills.map((j) => {
                         return (
                             <span className="skill">{j}</span>

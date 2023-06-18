@@ -299,6 +299,19 @@ a {
     animation-duration: 2.2s;
 }
 
+@media screen and (max-width: 1024px) {
+    .show:nth-child(1), .show:nth-child(4), .show:nth-child(7) {
+        animation-duration: 0.7s;
+    }
+    
+    .show:nth-child(2), .show:nth-child(5), .show:nth-child(8) {
+        animation-duration: 1.2s;
+    }
+    .show:nth-child(3), .show:nth-child(6) {
+        animation-duration: 1.7s;
+    }
+}
+
 @keyframes transitionIn {
     from {
         opacity: 0;
@@ -699,6 +712,10 @@ a {
         grid-template-columns: repeat(3, auto);
     }
 
+    .about-paragraph {
+        text-align: center;
+    }
+
     .download-cv {
         margin: 0 auto 24px auto;
     }
@@ -761,7 +778,7 @@ a {
 .project-img-container img {
     width: 100%;
     height: 100%;
-    object-fit: cover;
+    object-fit: contain;
     aspect-ratio: 8/5;
     border-radius: 20px;
     cursor: pointer;
@@ -849,7 +866,7 @@ a {
     .project-img-container {
         flex: 40%;
     }
-    .project-img-container {
+    .project-info-container {
         flex: 60%;
     }
 }
