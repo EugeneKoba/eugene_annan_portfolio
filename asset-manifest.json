@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/eugene_annan_portfolio/static/css/main.72225b2e.css",
+    "main.css": "/eugene_annan_portfolio/static/css/main.39bb333a.css",
     "main.js": "/eugene_annan_portfolio/static/js/main.ff4d5300.js",
     "static/media/IMG_4806_01.jpg": "/eugene_annan_portfolio/static/media/IMG_4806_01.41ed830c60fa52fc8b5a.jpg",
     "static/media/IMG_4887_02.jpg": "/eugene_annan_portfolio/static/media/IMG_4887_02.4062941ba9b505e15e6b.jpg",
     "static/media/IMG_4675_01.jpg": "/eugene_annan_portfolio/static/media/IMG_4675_01.a017b9e42e70b6539f1e.jpg",
     "index.html": "/eugene_annan_portfolio/index.html",
-    "main.72225b2e.css.map": "/eugene_annan_portfolio/static/css/main.72225b2e.css.map",
+    "main.39bb333a.css.map": "/eugene_annan_portfolio/static/css/main.39bb333a.css.map",
     "main.ff4d5300.js.map": "/eugene_annan_portfolio/static/js/main.ff4d5300.js.map"
   },
   "entrypoints": [
-    "static/css/main.72225b2e.css",
+    "static/css/main.39bb333a.css",
     "static/js/main.ff4d5300.js"
   ]
 }
