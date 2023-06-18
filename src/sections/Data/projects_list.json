@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "title": "Jane's Library",
+        "title": "Jane's Library (Front-End)",
         "description": "An Online Blog website containing blog content from Poet, Singer-Songwriter & Author Jane Goodall. This website contains an interface for a blog, an online library storage & an Open-library API book search feature. The website posted here is a sample.",
         "completed": true,
         "skills": [
@@ -15,19 +15,19 @@
     },
     {
         "id": 2,
-        "title": "Car Insurance Website (Pending)",
-        "description": "A car insurance/rental website that allows users to fond insurance prices for specific cars, & rent cars for business or personal use. This website provides an interface for searching, comparing & reserving cars.",
-        "completed": false,
+        "title": "AutoInsure - Car Insurance & Rental Website (Full-Stack)",
+        "description": "A car insurance/rental website that allows users to predict insurance quotes for specific cars, & rent cars for business or personal use. This website provides an interface for searching, comparing & reserving cars.",
+        "completed": true,
         "skills": [
             "HTML/CSS",
             "React",
             "Node JS",
-            "Python",
+            "Express",
             "SQL"
         ],
-        "img": "./Project_Screenshots/Car_Insurance_Website.png",
+        "img": "./Project_Screenshots/autoInsure.png",
         "live_link": "https://github.com/EugeneKoba",
-        "github_link": "https://github.com/EugeneKoba"
+        "github_link": "https://github.com/EugeneKoba/autoinsure"
     },
     {
         "id": 3,
