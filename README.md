@@ -76,4 +76,3 @@ Made with React JS. Website Icons & Design created with Adobe Photoshop, Illustr
 
 
 <img width="1680" alt="Screenshot 2023-06-18 at 11 09 18" src="https://github.com/EugeneKoba/eugene_annan_portfolio/assets/120111293/b64e06e2-c84e-4444-aaa1-2d4ba2ecd4a1">
-![image](https://github.com/EugeneKoba/eugene_annan_portfolio/assets/120111293/e2af11a5-f4c9-40ea-9f17-d4eeb248cc9c)
