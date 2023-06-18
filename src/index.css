@@ -716,8 +716,14 @@ a {
         text-align: center;
     }
 
-    .download-cv {
-        margin: 0 auto 24px auto;
+    .about-btn-container {
+        width: 100%;
+    }
+
+    .download-cv-two {
+        max-width: 150px;
+        margin: 0 auto 24px;
+        margin-left: auto;
     }
 }
 
@@ -767,6 +773,8 @@ a {
 .project-img-container {
     flex: 35%;
     margin: 10px 0;
+    width: 100%;
+    max-width: 100%;
     height: 100%;
     display: flex;
     justify-items: center;
@@ -776,7 +784,8 @@ a {
 }
 
 .project-img-container img {
-    width: 100%;
+    width: calc(100% - 60px);
+    max-width: calc(100% - 60px);
     height: 100%;
     object-fit: contain;
     aspect-ratio: 8/5;
