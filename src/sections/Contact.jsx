@@ -49,7 +49,7 @@ const Contact = () => {
                 </div>
                 <p className="form-label">I am available for work. Connect with me via phone: 
                   <a href='tel:+447495146284' className='phone'>
-                    {` +447123456789 `}
+                    {` +447495146284 `}
                   </a> 
                   or email at
                   <a href='mailto:eugeneannan@hotmail.co.uk' className='email'>
