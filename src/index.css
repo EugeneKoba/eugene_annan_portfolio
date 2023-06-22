@@ -8,7 +8,7 @@ body {
     font-size: 1rem;
 }
 
-.html {
+html {
     scroll-behavior: smooth;
 }
 
@@ -28,7 +28,6 @@ body {
 .main {
     width: 100vw;
     min-height: 100vh;
-    
 }
 
 /* Class that controls light mode colours & dark mode colours */
@@ -40,7 +39,6 @@ body {
     --background-secondary: var(--dark-white);
     --text-primary: var(--dark-black);
     --text-secondary: var(--light-black);
-
 }
 
 .main.dark {
@@ -51,12 +49,12 @@ body {
     --background-secondary: var(--light-black);
     --text-primary: var(--light-white);
     --text-secondary: var(--dark-white);
-
 }
 
 section {
     padding: 10rem 0;
     transition: all 0.35s ease;
+    scroll-behavior: smooth;
 }
 
 /* Background for sections */
@@ -219,6 +217,19 @@ a {
 
 .btn-lg {
     font-size: 18px;
+}
+
+button:disabled, button[disabled] {
+    transition: none;
+    cursor: not-allowed;
+    background-color: var(--light-black);
+}
+
+button[disabled]:hover, button[disabled]:active {
+    border: 2px solid var(--light-black);
+    color: var(--light-white);
+    background-color: var(--light-black);
+    transform: none;
 }
 
 /* Light/Dark Mode Switch */
@@ -1236,6 +1247,7 @@ a {
 }
 
 .submit-btn {
+    font-family: 'Montserrat', sans-serif;
     margin: 5px auto 20px 15px ;
 }
 

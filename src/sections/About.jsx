@@ -29,7 +29,7 @@ const About = () => {
                 )
               })}
             </div>
-            <p className="sub-title about-paragraph">I am an aspiring Front-End Developer, based in London, England, with 2 years of experience within the Data Analytics & Insurance field. I am making a transition into Web/Software Development. I have previous experience with Python & SQL, and have built up my HTML, CSS, Javascript skills over the last year by working with clients to build up several live website projects. I am a team player who thrives in collaberating with a multitude of technical & general teams.</p>
+            <p className="sub-title about-paragraph">I am an aspiring Front-End Developer, based in London, with 2 years of experience within the Data Analytics & Insurance field. I have made a transition into Web Development, due to my passion & interest for it. I have previous experience with Python & SQL, and have built up my HTML, CSS, Javascript skills over the last year by working with clients to build up several live website projects. I am a team player who thrives in collaberating with a multitude of technical & general teams.</p>
             <div className="about-btn-container">
               <a href='https://1drv.ms/w/s!AvUFV4_TIpoIiXa3KVetTPMd9Ave?e=Qt27KW' target="_blank" className="btn btn-lg download-cv-two">
                 <span>Download CV</span>

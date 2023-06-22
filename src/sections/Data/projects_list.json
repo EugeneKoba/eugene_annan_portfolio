@@ -2,12 +2,12 @@
     {
         "id": 1,
         "title": "Jane's Library (Front-End)",
-        "description": "An Online Blog website containing blog content from Poet, Singer-Songwriter & Author Jane Goodall. This website contains an interface for a blog, an online library storage & an Open-library API book search feature. The website posted here is a sample.",
+        "description": "An Online Blog website containing blog content from Poet, Singer-Songwriter & Author Jane Goodall. This website contains an interface for a blog, an online library storage & an Open-Library API book search feature. The website posted here is a sample.",
         "completed": true,
         "skills": [
             "HTML/CSS",
             "Javascript",
-            "Bootatrap"
+            "Bootstrap"
         ],
         "img": "./Project_Screenshots/janes_library.png",
         "live_link": "https://eugenekoba.github.io/jane-s_library/",
@@ -26,8 +26,8 @@
             "SQL"
         ],
         "img": "./Project_Screenshots/autoInsure.png",
-        "live_link": "https://github.com/EugeneKoba",
-        "github_link": "https://github.com/EugeneKoba/autoinsure"
+        "live_link": "https://ubiquitous-otter-4064b7.netlify.app/",
+        "github_link": "https://github.com/EugeneKoba/autoinsure_app"
     },
     {
         "id": 3,

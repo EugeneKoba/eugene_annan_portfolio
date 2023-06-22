@@ -6,11 +6,24 @@ import contactPic from "../images/IMG_4887_02.jpg"
 const Contact = () => {
   // Creating state to store form input, in the form of an object
   const [formInput, setFormInput] = useState({ user_name: "", user_email: "", message: "" })
+  // State for form validation
+  const [valid, setValid] = useState(false)
 
   // Function to update 'formInput state with the user's input
   const handleChange = (event) => {
     // Destructuring to update the state witht he user's input
     setFormInput({...formInput, [event.target.name]: event.target.value})
+    return validateForm()
+  }
+
+  // Function to validate form
+  const validateForm = () => {
+    if (formInput.user_name && formInput.user_email && formInput.message) {
+      return setValid(true)
+    }
+    else {
+      setValid(false)
+    }
   }
 
   // Using automated email service called EmailJS to receive emails from form submission
@@ -61,7 +74,7 @@ const Contact = () => {
                   <input type="text" name="user_name" value={formInput.name} placeholder='Your Full Name...' className='contact-name' onChange={handleChange}/>
                   <input type="email" name="user_email" value={formInput.email} placeholder='Your Email Address...' className='contact-email' onChange={handleChange}/>
                   <textarea type="textarea" name="message" value={formInput.message} placeholder='Your Message... (max 200 characters)' rows="3" maxLength="200" className='contact-message' onChange={handleChange}></textarea>
-                  <button type='submit' value="Send" className='btn btn-lg submit-btn'>Submit</button>
+                  <button type='submit' value="Send" className='btn btn-lg submit-btn' disabled={valid ? "" : "true"}>Submit</button>
                 </form>
               </div>
               <div className="contact-img-container">
