@@ -9,7 +9,7 @@
             "Javascript",
             "Bootstrap"
         ],
-        "img": "./Project_Screenshots/janes_library.png",
+        "img": "./Project_Screenshots/janes_library.jpg",
         "live_link": "https://eugenekoba.github.io/jane-s_library/",
         "github_link": "https://github.com/EugeneKoba/jane-s_library"
     },
@@ -25,21 +25,22 @@
             "Express",
             "SQL"
         ],
-        "img": "./Project_Screenshots/autoInsure.png",
+        "img": "./Project_Screenshots/autoInsure.jpg",
         "live_link": "https://ubiquitous-otter-4064b7.netlify.app/",
         "github_link": "https://github.com/EugeneKoba/autoinsure_app"
     },
     {
         "id": 3,
-        "title": "E-Commerce Website (Pending)",
-        "description": "An E-commerce store that prioritises user experience, to help users locate & purchase the products they need online.",
+        "title": "Financial Landing Page (Pending)",
+        "description": "A Financial Advisory landing page, made to serve clients with financial information, blogs, money management services & more.",
         "completed": false,
         "skills": [
             "HTML/CSS",
             "React",
-            "Bootatrap"
+            "TypeScript",
+            "Bootstrap"
         ],
-        "img": "./Project_Screenshots/E-Commerce.png",
+        "img": "./Project_Screenshots/finance_landing_page.jpg",
         "live_link": "https://github.com/EugeneKoba",
         "github_link": "https://github.com/EugeneKoba"
     }
