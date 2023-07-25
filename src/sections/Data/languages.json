@@ -21,18 +21,18 @@
     },
     {
         "id": 5,
+        "title": "Typescript",
+        "link": "./Languages/typescript-icon.png"
+    },
+    {
+        "id": 6,
         "title": "Python",
         "link": "./Languages/python-icon.png"
     },
     {
-        "id": 6,
+        "id": 7,
         "title": "SQL",
         "link": "./Languages/sql-icon.png"
-    },
-    {
-        "id": 7,
-        "title": "Photoshop",
-        "link": "./Languages/photoshop-icon.png"
     },
     {
         "id": 8,
